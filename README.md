@@ -36,6 +36,12 @@
 
 ---
 ---
-## Join me at Social Media.
+## Join me on Social Media.
 ---
+Facebook: https://www.facebook.com/AiPhile17
+
+Youtube: https://www.youtube.com/c/aiphile
+
+instagram:
+
 ---
