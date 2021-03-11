@@ -9,8 +9,10 @@
 --------
 <br></br>
 
-### Settup Opencv C plus Plus and Compile with CMake on Windows 10
+### Set-up Opencv C plus Plus and Compile with CMake on Windows 10
 ---
+Go to  <a href="https://github.com/Asadullah-Dal17/ArUco-Marker-Detection-and-Pos-Estimation-Cplus-plus/tree/master/Set-Up-Opencv-CPlusPlus">README</a>
+
 *Youtube Video:*
 
 ---
