@@ -1,18 +1,29 @@
 # Setting Opencv C++ Environment with Visual Studio Code and Cmake on Windows 
-
+---
 ## Compile Opencv from Source:
-
-### **Requiremnets are:** <br> <br/>
+----
+---
+## **Requiremnets are:**
  
+---
 
+### 1.***Visual Studio***
+---
+Install Visual Studio
 
-##### 1.***Visual Studio***
-Build Tools 
-##### 2.  ***CMake***
+Build Tools
+
+---
+### 2.  ***CMake***
+---
+
  install <a href="https://cmake.org/download/">CMake</a>
 
+---
+*if you are not interted to use Visual Studio other option would be Visual Studio code and Cmake (with few Extension)*
+### 3.  ***Visual Studio Code***
 
-##### 3.  ***Visual Studio Code***
+---
 1. install <a href="https://code.visualstudio.com/download">Visual Studio Code </a>
     
 2. Install Visual Studio Code Extension
@@ -21,12 +32,13 @@ Build Tools
 
     B- <a href="https://github.com/microsoft/vscode-cpptools"> C/C++</a>> by Microsoft
 
+s 
 
-If you are going to Work with *ArUco Marker* Detection and Pos-Estimation then Compile **Opencv** form the source with **Opncv-Contrib**  
+----
+If you are going to Work with **ArUco Marker** Detection and Pos-Estimation then Compile **Opencv** form the source with **Opncv-Contrib**  
 
-
-
-### setting Opencv python To Environment Variables
+---
+### Setting Opencv python To Environment Variables
 
 ####  Set Opencv Build Path for CMAKE 
 
