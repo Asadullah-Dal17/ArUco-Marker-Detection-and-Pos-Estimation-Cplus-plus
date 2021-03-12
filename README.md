@@ -1,17 +1,38 @@
 # ArUco Marker Detection and Pos-Estimation
 
-## This Repository will show you <br></br>
----------------------
+<h2> <i>This Repository will show you</i></h2> <br></br>
 <ol>
 
-<a href="#"><b><i> How to Settup Enviornment for Opencv C plus plus on your Windows machin</i></b></a>
-<h1 style="color:Tomato;">Setting Up things</h1>
+<li><a href="#"><b><i> How to Settup Enviornment for Opencv C plus plus on your Windows 10 machine</i></b></a>
+</li>
 
+----
+<a href="#">Youtube Video</a>
 
-How To Calibrate Camera
-How to Generate ArUco Marker
+---
+<li><a href="#"><b><i> How To Calibrate Camera</i></b></a>
+</li>
 
-How to Detect ArUco Marker and Estimate the Pos
+---
+<a href="#">Youtube Video</a>
+
+---
+<li><a href="#"><b><i> How to Generate ArUco Marker</i></b></a>
+</li>
+
+---
+<a href="#">Youtube Video</a>
+
+----
+
+<li><a href="#"><b><i> How to Detect ArUco Marker and Estimate the Pos</i></b></a>
+</li>
+
+---
+<a href="#">Youtube Video</a>
+
+----
+
 </ol>
 
 --------
@@ -50,10 +71,7 @@ Go to  <a href="https://github.com/Asadullah-Dal17/ArUco-Marker-Detection-and-Po
 ---
 ## Join me on Social Media.
 ---
-Facebook: https://www.facebook.com/AiPhile17
+<a href="https://www.facebook.com/AiPhile17"><h3>Facebook Page</h3></a>
 
-Youtube: https://www.youtube.com/c/aiphile
+<a href="https://www.youtube.com/c/aiphile"><h3>Join me Youtube</h3></a>
 
-instagram:
-
----
