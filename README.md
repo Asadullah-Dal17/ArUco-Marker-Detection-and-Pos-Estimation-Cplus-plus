@@ -74,4 +74,3 @@ Go to  <a href="https://github.com/Asadullah-Dal17/ArUco-Marker-Detection-and-Po
 <a href="https://www.facebook.com/AiPhile17"><h3>Facebook Page</h3></a>
 
 <a href="https://www.youtube.com/c/aiphile"><h3>Join me Youtube</h3></a>
-
