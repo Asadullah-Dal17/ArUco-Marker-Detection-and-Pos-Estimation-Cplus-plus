@@ -2,12 +2,22 @@
 
 ## This Repository will show you <br></br>
 ---------------------
-- #### ***how to Settup Enviornment for Opencv C plus plus on your Windows machine***
-- #### ***How To Calibrate Camera*** 
-- #### ***How to Generate ArUco Marker***
-- #### ***How to Detect ArUco Marker and Estimate the Pos*** 
+<ol>
+
+<a href="#"><b><i> How to Settup Enviornment for Opencv C plus plus on your Windows machin</i></b></a>
+<h1 style="color:Tomato;">Setting Up things</h1>
+
+
+How To Calibrate Camera
+How to Generate ArUco Marker
+
+How to Detect ArUco Marker and Estimate the Pos
+</ol>
+
 --------
 <br></br>
+
+
 
 ### Set-up Opencv C plus Plus and Compile with CMake on Windows 10
 ---
