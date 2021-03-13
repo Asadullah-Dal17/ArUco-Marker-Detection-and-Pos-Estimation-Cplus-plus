@@ -12,7 +12,7 @@
 <li><h3> <b>Visual Studio</b></h3></li>
 
 ---
-Install Visual Studio
+Install <a href="https://cmake.org/download/">Visual Studio</a>
 
 Build Tools
 
@@ -42,6 +42,7 @@ Compile the Opencv C++ using Camke
 <li><h3> <b>Visual Studio Code</b></h3></li>
 
 ---
+
 1. install <a href="https://code.visualstudio.com/download">Visual Studio Code </a>
     
 2. Install Visual Studio Code Extension
@@ -52,20 +53,27 @@ Compile the Opencv C++ using Camke
 
 
 </ol>
+
 ----
+
 If you are going to Work with **ArUco Marker** Detection and Pos-Estimation then Compile **Opencv** form the source with **Opncv-Contrib**  
 
 ---
-### Setting Opencv python To Environment Variables
+## Setting Opencv python To Environment Variables
 
-####  Set Opencv Build Path for CMAKE 
+---
+###  __Set Opencv Build Path for CMAKE__ 
+
+---
+<ul>
+<li> User Variable Name = <strong>CMAKE_PREFIX_PATH</strong></li>
+
+<li> path = <strong>C:\Opencv\build</strong></li>
 
 
-User Variable Name = **CMAKE_PREFIX_PATH**
 
-path = **C:\Opencv\build**
-
-Opencv_bin path: = ""
+<li>Opencv_bin path: = <strong> Opencv Bin Path</strong></li>
 
 
+</ul>
     
